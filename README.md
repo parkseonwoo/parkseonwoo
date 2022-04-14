@@ -14,10 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h4>
-  안녕하세요!
-</h4>
-![header](https://capsule-render.vercel.app/api?text=Welcome&animation=fadeIn)
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Welcome!&fontSize=80" />
+
 
 ## 💻 My Stack
 <div>
